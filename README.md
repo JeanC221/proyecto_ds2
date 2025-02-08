@@ -60,14 +60,6 @@ DATABASE_HOST=db
 DATABASE_PORT=5432
 ```
 
-#### `query/.env`
-
-```env
-OPENAI_API_KEY=tu_api_key
-```
-
-Reemplace `tu_api_key` con su clave real de OpenAI.
-
 ### Levantar los contenedores con Docker
 
 Ejecute el siguiente comando en la raíz del proyecto:
