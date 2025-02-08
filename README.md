@@ -121,6 +121,3 @@ Luego, reconstruya los contenedores:
 ```sh
 docker-compose up --build
 ```
-
-Esto garantiza que los servicios se ejecuten con la última versión del código y las dependencias actualizadas.
-
